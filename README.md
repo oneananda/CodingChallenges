@@ -1,2 +1,2 @@
-# CodingChallenges
-Here you can find various Coding Challenges solutions for the various sites
+Coding Challenges
+Here you can find various Coding Challenges solutions from the various sites
