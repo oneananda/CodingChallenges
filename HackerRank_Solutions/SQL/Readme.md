@@ -1,1 +1,1 @@
-This page will contain the Easy mode SQL coding challenges
+Choose your mode for SQL coding challenges
