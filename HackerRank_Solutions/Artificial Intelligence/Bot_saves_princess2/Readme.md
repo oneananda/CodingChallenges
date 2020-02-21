@@ -20,26 +20,3 @@ Output Format
 
 Output only the next move you take to rescue the princess. Valid moves are LEFT, RIGHT, UP or DOWN
 
-Sample Input
-
-5
-2 3
------
------
-p--m-
------
------
-Sample Output
-
-LEFT
-Resultant State
-
------
------
-p-m--
------
------
-
-Explanation
-
-As you can see, bot is one step closer to the princess.
