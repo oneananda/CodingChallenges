@@ -2,4 +2,4 @@
 
 ## Description: 
 
-Design a stack that supports push, pop, top, and retrieving the maximum and minimum elements in constant time.
+### Design a stack that supports push, pop, top, and retrieving the maximum and minimum elements in constant time.
