@@ -1,4 +1,4 @@
-﻿namespace SingletonDemo
+﻿namespace Lazy_Initialization_SingletonDemo
 {
     internal class Program
     {
