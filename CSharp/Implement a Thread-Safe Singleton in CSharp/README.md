@@ -10,3 +10,15 @@ Ensure that the Singleton is thread-safe.
 Implement a method GetInstance() that returns the single instance of the class.
 Prevent the Singleton instance from being created more than once.
 Implement a simple test to ensure the Singleton pattern works as expected.
+
+## Goal:
+
+Implement the Singleton class ensuring that the instance is created only once and is thread-safe. This challenge tests your understanding of design patterns, thread safety, and concurrency.
+
+## Hints:
+
+- Consider using the lock keyword to ensure thread safety when initializing the instance.
+- There are multiple ways to implement a Singleton in C#. 
+	- Research and decide whether to use the Lazy Initialization, 
+	- Eager Initialization, 
+	- or a double-check locking mechanism.
