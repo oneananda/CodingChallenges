@@ -19,3 +19,13 @@ Static Instance Initialization: The Singleton instance is created as a static fi
 Private Constructor: The constructor is private to prevent other classes from creating new instances of the Singleton.
 
 Global Access: The GetInstance() method provides a global access point to the Singleton instance.
+
+## Advantages
+
+Thread Safety: The instance is created at class loading time, so it's inherently thread-safe.
+
+Simplicity: The implementation is straightforward, with no need for locks or complicated synchronization mechanisms.
+
+## Disadvantages
+
+Resource Usage: The instance is created whether or not it is used, which might be unnecessary if the Singleton is never accessed.
